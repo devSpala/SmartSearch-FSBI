@@ -44,3 +44,13 @@ It combines:
     │ ─ Merges Cloud + Local       │
     │ ─ Stores delta in Cache      │
     └──────────────────────────────┘
+
+---
+
+## 🚀 Run the Server
+
+### 1. Setup environment
+```bash
+python -m venv venv
+source venv/bin/activate   # Linux/macOS
+venv\Scripts\activate      # Windows
