@@ -113,7 +113,7 @@ Run the app → enter queries → get results.
 If online → queries cloud FSBI + updates cache.
 
 If offline → serves results from LRU cache.
-## 📱 Android Client Setup
+## 🧪 How to Test End-to-End
 1. Index sample docs
 curl -X POST -H "Content-Type: application/json" \
   -d '{"doc_id":"doc1","text":"internationalization of IoT devices"}' \
